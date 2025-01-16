@@ -118,3 +118,7 @@ This file tracks daily development activities for the SWYF project from January 
 
 - Add tooltip explanations
 
+## 2025-01-16 10:29:45
+
+- Fix navigation issues
+
