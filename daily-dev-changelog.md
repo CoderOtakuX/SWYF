@@ -142,3 +142,7 @@ This file tracks daily development activities for the SWYF project from January 
 
 - Add accessibility features
 
+## 2025-01-19 14:58:41
+
+- Update terms of service
+
