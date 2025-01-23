@@ -178,3 +178,7 @@ This file tracks daily development activities for the SWYF project from January 
 
 - Implement user preferences
 
+## 2025-01-23 13:57:09
+
+- Fix navigation issues
+
