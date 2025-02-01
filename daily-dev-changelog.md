@@ -258,3 +258,7 @@ This file tracks daily development activities for the SWYF project from January 
 
 - Fix cross-browser compatibility issues
 
+## 2025-02-01 13:10:33
+
+- Improve mobile layout
+
