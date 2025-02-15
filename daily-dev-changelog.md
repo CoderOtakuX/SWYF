@@ -382,3 +382,7 @@ This file tracks daily development activities for the SWYF project from January 
 
 - Update privacy settings
 
+## 2025-02-15 11:48:24
+
+- Update terms of service
+
