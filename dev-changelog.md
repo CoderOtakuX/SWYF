@@ -18,3 +18,7 @@ This file tracks development activities for the SWYF project.
 
 - Add new clothing items
 
+## 2025-02-20 13:25:16
+
+- Improve loading times
+
