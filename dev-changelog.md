@@ -22,3 +22,7 @@ This file tracks development activities for the SWYF project.
 
 - Improve loading times
 
+## 2025-02-25 13:41:18
+
+- Refactor component structure
+
