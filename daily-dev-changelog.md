@@ -518,3 +518,7 @@ This file tracks daily development activities for the SWYF project from January 
 
 - Fix accessibility issues
 
+## 2025-03-05 16:13:35
+
+- Add keyboard shortcuts
+
