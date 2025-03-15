@@ -594,3 +594,7 @@ This file tracks daily development activities for the SWYF project from January 
 
 - Fix memory leaks
 
+## 2025-03-15 13:40:04
+
+- Add tooltip explanations
+
