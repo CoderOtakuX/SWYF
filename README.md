@@ -12,6 +12,7 @@ SWYF is an innovative AI-powered virtual try-on platform that revolutionizes onl
 ## 📋 Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
@@ -31,6 +32,25 @@ SWYF is an innovative AI-powered virtual try-on platform that revolutionizes onl
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
 - 🌙 **Dark Mode Support**: Enhanced viewing experience with full dark mode support
 - 🔄 **Interactive 3D Background**: Engaging user experience with interactive Spline 3D elements
+
+## 🎬 Demo
+
+Check out our demo video to see SWYF in action:
+
+<p align="center">
+  <a href="frontend/DEMO%20.mp4">
+    <img src="assets/landingpage.png" alt="SWYF Demo Video" width="640">
+    <br>
+    <strong>▶️ Click to watch the demo video</strong>
+  </a>
+</p>
+
+The demo showcases:
+- Virtual try-on experience with various clothing items
+- Color analysis and personalized recommendations
+- User interaction with the 3D elements
+- Rewards system overview
+- Mobile responsiveness features
 
 ## 🏗️ Project Structure
 
