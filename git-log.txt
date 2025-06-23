@@ -1,0 +1,11 @@
+2e27c90 Update documentation and add CHANGELOG
+4561b0e Optimize Spline 3D background loading performance
+8141423 Fix image loading issues in product catalog
+0f9fe84 Add product catalog for clothing items
+3668d43 Implement dark mode support with theme context
+6db7997 Integrate Spline for interactive 3D background
+b6850ab Add Flask backend with initial API endpoints
+fa05fa8 Setup React frontend with TypeScript and Tailwind CSS
+3c43de5 Setup React frontend with TypeScript and Tailwind CSS
+e8f9fec Initial project structure and setup
+0e042b0 Initial project structure and setup

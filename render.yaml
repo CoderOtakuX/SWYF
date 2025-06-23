@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: swyf-virtual-tryon
+    runtime: python
+    buildCommand: ""
+    startCommand: gunicorn flasktry:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+    buildFilter:
+      paths:
+        - services/virtual-tryon/**
+    rootDir: services/virtual-tryon

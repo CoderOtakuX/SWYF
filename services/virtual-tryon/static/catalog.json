@@ -1,0 +1,48 @@
+{
+    "shirts": [
+        {
+            "id": "1",
+            "name": "Blue T-shirt",
+            "image": "/static/assets/shirt1.png",
+            "type": "default"
+        },
+        {
+            "id": "2",
+            "name": "Blue Shirt",
+            "image": "/static/assets/shirt2.png",
+            "type": "default"
+        },
+        {
+            "id": "3",
+            "name": "Black T-shirt",
+            "image": "/static/assets/shirt51.jpg",
+            "type": "default"
+        },
+        {
+            "id": "4",
+            "name": "Grey T-shirt",
+            "image": "/static/assets/shirt6.png",
+            "type": "default"
+        },
+        {
+            "id": "5",
+            "name": "white t-shirt",
+            "image": "/static\\user-uploads/processed_shirt_341b8709-da76-44dc-92cc-81799d15e499.png",
+            "type": "user"
+        }
+    ],
+    "pants": [
+        {
+            "id": "1",
+            "name": "White Pants",
+            "image": "/static/assets/pant7.jpg",
+            "type": "default"
+        },
+        {
+            "id": "2",
+            "name": "Blue Pants",
+            "image": "/static/assets/pant21.png",
+            "type": "default"
+        }
+    ]
+}
